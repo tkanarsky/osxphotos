@@ -75,6 +75,14 @@ Start with the **[[00-index]]** for an overview, then follow these documents:
    - Testing
    - Best practices
 
+### Limitations
+
+10. **[[09-known-gaps.md]]** - Known gaps and limitations
+   - Incomplete reverse-engineered areas
+   - Proprietary algorithms
+   - Version-specific unknowns
+   - Workarounds and limitations
+
 ## Quick Start
 
 ### For Readers
@@ -276,6 +284,7 @@ This is a reverse-engineered specification. Apple may change the format without 
 - **Albums & People**: [[06-organizational-structures.md]]
 - **Special Types**: [[07-special-formats.md]]
 - **Implementation**: [[08-implementation-guide.md]]
+- **Known Gaps**: [[09-known-gaps.md]]
 
 ### By Topic
 
@@ -299,6 +308,11 @@ This is a reverse-engineered specification. Apple may change the format without 
 - Complete guide: [[08-implementation-guide.md]]
 - Version handling: [[05-version-compatibility.md]]
 - Examples: [[08-implementation-guide.md]]
+
+**Limitations**:
+- Known gaps: [[09-known-gaps.md]]
+- Proprietary features: [[09-known-gaps.md]]
+- Workarounds: [[09-known-gaps.md]]
 
 ---
 

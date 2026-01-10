@@ -31,6 +31,7 @@ This specification is organized into the following documents:
 6. **[[06-organizational-structures]]** - Albums, folders, moments, and hierarchies
 7. **[[07-special-formats]]** - Special file types (Live Photos, RAW, bursts, etc.)
 8. **[[08-implementation-guide]]** - Implementation guidance with code examples
+9. **[[09-known-gaps]]** - Known gaps and limitations in reverse-engineered knowledge
 
 ## Key Concepts
 
